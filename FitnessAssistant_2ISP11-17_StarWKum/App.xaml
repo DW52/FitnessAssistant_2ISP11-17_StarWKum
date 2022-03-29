@@ -1,0 +1,9 @@
+﻿<Application x:Class="FitnessAssistant_2ISP11_17_StarWKum.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:FitnessAssistant_2ISP11_17_StarWKum"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
